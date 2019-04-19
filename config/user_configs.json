@@ -1,0 +1,28 @@
+{
+    "colors":{
+        "offline":[
+            255,
+            128,
+            0
+        ],
+        "online":[
+            13,
+            255,
+            19
+        ]
+    },
+    "keybinds":{
+        "bind1":{
+            "amount":"10",
+            "keybind":"numpad_1"
+        },
+        "bind2":{
+            "amount":"25",
+            "keybind":"numpad_2"
+        },
+        "bind3":{
+            "amount":"50",
+            "keybind":"numpad_3"
+        }
+    }
+}
